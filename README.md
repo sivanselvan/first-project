@@ -3,6 +3,6 @@
 <body>
   <h1>Hello world</h1>
   <h1>This is a website which supports the LGBTQ community</h1>
-  <img src="LGBTQ1.jpg" />
+  <img src="images.jpg" alt="WE MATTER" />
 </body>
 </html>
